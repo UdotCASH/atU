@@ -25,7 +25,7 @@
 - ✅ **No Gas Fees** - Zero gas for transactions
 - ✅ **Privacy First** - No personal data required
 - ✅ **NFT-Based** - Your @U is an NFT you own
-- ⚠️ **Coming Soon** - @U handles will be available for registration in the future
+- ⚠️ **Coming Soon** - @u handles will be available for registration in the future
 
 ---
 
@@ -33,7 +33,7 @@
 
 | Feature | @U Handle | Crypto Addresses |
 |---------|-----------|------------------|
-| **Memorability** | `yourname@U` | `0x7a3...` |
+| **Memorability** | `yourname@u` | `0x7a3...` |
 | **Cross-Chain** | One for all chains | Different per chain |
 | **Gas Fees** | None | Required |
 | **Privacy** | Built-in | Exposed on-chain |
@@ -46,12 +46,12 @@
 
 ### Registration Through U.ONL and Undomains
 
-**@U handles will be available through U.ONL and [Undomains](https://undomains.com).**
+**@u handles will be available through U.ONL and [Undomains](https://undomains.com).**
 
 ### How It Will Work
 
 1. **Visit U.ONL or Undomains** - Access through [u.onl](https://u.onl) or [undomains.com](https://undomains.com)
-2. **Search for Your Handle** - Find your desired `@U` handle
+2. **Search for Your Handle** - Find your desired `@u` handle
 3. **Register & Mint** - Purchase through the portal
 4. **Use Across All Chains** - Link addresses and use everywhere
 
@@ -60,15 +60,15 @@
 - **User-Friendly Interface** - Simplified registration process
 - **Integrated Experience** - Seamless with UCASH ecosystem
 - **Additional Features** - Enhanced functionality and support
-- **Exclusive Access** - Special @U handles and bundles
+- **Exclusive Access** - Special @u handles and bundles
 - **Unified Management** - Manage all your UCASH domains in one place
 
 ### Coming Soon
 
-**@U handles will be available for registration through U portals in the future.**
+**@u handles will be available for registration through U portals in the future.**
 
 This repository provides comprehensive information about:
-- What @U handles are and how they work
+- What @u handles are and how they work
 - Supported blockchains and wallets
 - Integration capabilities
 - Use cases and applications
@@ -109,7 +109,7 @@ This repository provides comprehensive information about:
 **Coming Soon:**
 - ⏳ Registration through U.ONL and Undomains
 - ⏳ Pricing announcement
-- ⏳ Official @U handles
+- ⏳ Official @u handles
 - ⏳ Portal launch
 
 **Registration Portals:**
@@ -138,7 +138,7 @@ This repository provides comprehensive information about:
 
 ### Adding Addresses
 ```
-yourname@U
+yourname@u
 ├── BTC: 1YourBtcAddress...
 ├── ETH: 0xYourEthAddress...
 ├── SOL: YourSolanaAddress...
@@ -177,11 +177,11 @@ yourname@U
 ### Sending Crypto
 ```
 Old way: Send to 0x7a3d8f4e9c2b1...
-New way: Send to yourname@U
+New way: Send to yourname@u
 ```
 
 ### Exchanges & DEXs
-- **[Binance](https://binance.com)** - Use @U handles
+- **[Binance](https://binance.com)** - Use @u handles
 - **[Huobi](https://huobi.com)** - FIO integration
 - **[KuCoin](https://kucoin.com)** - Supported
 - **[PancakeSwap](https://pancakeswap.finance)** - Compatible
@@ -240,13 +240,13 @@ New way: Send to yourname@U
 1. Download a FIO-enabled wallet
 2. Create or import your account
 3. Purchase FIO tokens (if needed)
-4. Search for your @U handle
+4. Search for your @u handle
 5. Register and mint
 
 #### Adding Crypto Addresses
 1. Open your FIO wallet
 2. Navigate to "Handles" section
-3. Select your @U handle
+3. Select your @u handle
 4. Click "Add Public Address"
 5. Choose blockchain
 6. Enter address
@@ -255,13 +255,13 @@ New way: Send to yourname@U
 #### Using @U for Transactions
 1. On supported exchange/wallet
 2. Choose "Send" or "Withdraw"
-3. Enter recipient's @U handle
+3. Enter recipient's @u handle
 4. Select blockchain
 5. Confirm transaction
 
 ### Domain Types
 
-### @U Handle Types
+### @u Handle Types
 - **Personal** - `yourname@u`
 - **Business** - `company@u`
 - **Brand** - `brand@u`
@@ -292,9 +292,9 @@ async function resolveUHandle(handle) {
 
 ### API Integration
 ```bash
-# Lookup address for @U handle
+# Lookup address for @u handle
 curl https://api.fio.org/v1/chain/get_pub_address {
-  "fio_address": "yourname@U",
+  "fio_address": "yourname@u",
   "chain_code": "ETH",
   "token_code": "ETH"
 }
@@ -368,7 +368,7 @@ curl https://api.fio.org/v1/chain/get_pub_address {
 
 ### Scam Prevention
 ⚠️ **IMPORTANT:**
-- Always verify the @U handle
+- Always verify the @u handle
 - Check spelling carefully
 - Never share your private key
 - Use official integrations
@@ -390,8 +390,8 @@ const fio = new Fio({
   baseUrl: 'https://api.fio.org'
 });
 
-// Register @U handle
-const result = await fio.registerFioAddress('yourname@U');
+// Register @u handle
+const result = await fio.registerFioAddress('yourname@u');
 ```
 
 ### API Documentation
@@ -441,8 +441,8 @@ curl https://api.fio.org/v1/chain/add_pub_address
 ### Q: What happens if I lose access?
 **A:** Contact the wallet provider for recovery options.
 
-### Q: Can I sell my @U handle?
-**A:** Yes! @U handles are NFTs and can be traded on marketplaces.
+### Q: Can I sell my @u handle?
+**A:** Yes! @u handles are NFTs and can be traded on marketplaces.
 
 ### Q: How many handles can I register?
 **A:** There's no limit - register as many as you want!
@@ -471,11 +471,11 @@ curl https://api.fio.org/v1/chain/add_pub_address
 ✓ Download a FIO-enabled wallet
 ✓ Create or import account
 ✓ Get FIO tokens
-✓ Search for your @U handle
+✓ Search for your @u handle
 ✓ Register and mint
 ✓ Add your crypto addresses
 ✓ Use on exchanges/wallets
-✓ Share your @U handle!
+✓ Share your @u handle!
 
 ---
 
@@ -505,7 +505,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 
 <div align="center">
 
-**Simplify Crypto with Your @U Handle!** 🟣
+**Simplify Crypto with Your @u Handle!** 🟣
 
 [Learn More](https://u.onl) • [Get FIO Wallet](https://fio.org/get-wallet)
 
