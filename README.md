@@ -113,8 +113,8 @@ This repository provides comprehensive information about:
 - ⏳ Portal launch
 
 **Registration Portals:**
-- 🌐 **[U.ONL](https://u.onl)** - u.onl
-- 🌐 **[Undomains](https://undomains.com)** - undomains.com
+- 🌐 **[U.ONL](https://u.onl)**
+- 🌐 **[Undomains](https://undomains.com)**
 - ⏳ Coming soon
 
 **Stay Updated:**
