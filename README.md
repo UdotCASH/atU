@@ -8,6 +8,8 @@
 
 **The Complete Guide to @U Usernames - Available Through U.ONL and [Undomains](https://undomains.com)**
 
+put available through
+
 [Website](https://fio.net) • [Documentation](#documentation)
 
 </div>
@@ -420,7 +422,7 @@ curl -X POST https://fio.eosusa.io/v1/chain/get_pub_address \
 - `add_pub_address` - Map crypto address to @u handle
 - `transfer_fio_address` - Transfer @u handle ownership
 
-**GitHub Reference:** https://github.com/fioprotocol/fio.mainnet#fio-api
+**GitHub Reference:** [github.com/fioprotocol/fio.mainnet#fio-api](https://github.com/fioprotocol/fio.mainnet#fio-api)
 
 #### 3. FIO Chain V1 History API (Historical Data)
 **Purpose:** Get transaction history and traces
@@ -433,7 +435,7 @@ curl -X POST https://fio.eosusa.io/v1/chain/get_pub_address \
 - `get_account_txs` - Get account transactions
 - `get_txs` - Get transactions in block
 
-**GitHub Reference:** https://github.com/fioprotocol/fio.mainnet#history-v1
+**GitHub Reference:** [github.com/fioprotocol/fio.mainnet#history-v1](https://github.com/fioprotocol/fio.mainnet#history-v1)
 
 #### 4. FIO App API (Handle/Domain Registration)
 **Purpose:** Register FIO handles/domains through FIO Foundation
@@ -476,9 +478,9 @@ The **FIO Protocol Lite TypeScript SDK** is maintained by the FIO Foundation DAO
 
 ### GitHub Resources
 
-- **Main Repository:** https://github.com/fioprotocol
-- **FIO API Endpoints:** https://github.com/fioprotocol/fio.mainnet#fio-api
-- **History API:** https://github.com/fioprotocol/fio.mainnet#history-v1
+- **[Main Repository](https://github.com/fioprotocol)**
+- **[FIO API Endpoints](https://github.com/fioprotocol/fio.mainnet#fio-api)**
+- **[History API](https://github.com/fioprotocol/fio.mainnet#history-v1)**
 
 ---
 
