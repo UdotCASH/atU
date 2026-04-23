@@ -334,7 +334,7 @@ curl -X POST https://fio.api.fio.net/v1/chain/get_pub_address \
 - Payment addresses
 - Donations
 - Community tips
-- ICO/IDO participation
+- Payments
 - Airdrop claims
 
 ---
