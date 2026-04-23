@@ -120,7 +120,7 @@ This repository provides comprehensive information about:
 **Stay Updated:**
 - ⭐ Watch this repository
 - 📧 Check [u.onl](https://u.onl) for updates
-- 🐦 Follow [@UdotCASH](https://twitter.com/UdotCASH) on Twitter
+- 🐦 **X:** [@UdotCASH](https://twitter.com/UdotCASH) • [@ucashx](https://twitter.com/ucashx) • [@UdotONL](https://twitter.com/UdotONL)
 
 ### Native Support (10+ Chains)
 - ✅ **FIO** - Native protocol
