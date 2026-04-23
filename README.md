@@ -198,37 +198,37 @@ New way: Send to yourname@U
 ## 🔗 Integrations
 
 ### Exchanges (20+)
-- Binance
-- Huobi
-- KuCoin
-- OKEx
-- Gate.io
-- BitPay
-- CoinPayments
+- **[Binance](https://binance.com)**
+- **[Huobi](https://huobi.com)**
+- **[KuCoin](https://kucoin.com)**
+- **[OKEx](https://okex.com)**
+- **[Gate.io](https://gate.io)**
+- **[BitPay](https://bitpay.com)**
+- **[CoinPayments](https://coinpayments.net)**
 
 ### Wallets (50+)
-- MetaMask
-- Trust Wallet
-- Coinbase Wallet
-- Edge
-- Coinomi
-- Exodus
-- Bitcoin.com Wallet
+- **[MetaMask](https://metamask.io/)**
+- **[Trust Wallet](https://trustwallet.com/)**
+- **[Coinbase Wallet](https://www.coinbase.com/wallet)**
+- **[Edge](https://edge.app/)**
+- **[Coinomi](https://www.coinomi.com/)**
+- **[Exodus](https://www.exodus.com/)**
+- **[Bitcoin.com Wallet](https://wallet.bitcoin.com/)**
 
 ### DApps & DeFi
-- Uniswap
-- PancakeSwap
-- 1inch
-- Aave
-- Compound
-- Curve
+- **[Uniswap](https://uniswap.org)**
+- **[PancakeSwap](https://pancakeswap.finance)**
+- **[1inch](https://1inch.io)**
+- **[Aave](https://aave.com)**
+- **[Compound](https://compound.finance)**
+- **[Curve](https://curve.fi)**
 
 ### Payment Processors
-- BitPay
-- CoinPayments
-- NOWPayments
-- CoinGate
-- GoCoin
+- **[BitPay](https://bitpay.com)**
+- **[CoinPayments](https://coinpayments.net)**
+- **[NOWPayments](https://nowpayments.io)**
+- **[CoinGate](https://coingate.com)**
+- **[GoCoin](https://gocoin.com)**
 
 ---
 
