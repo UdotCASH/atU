@@ -119,8 +119,8 @@ This repository provides comprehensive information about:
 
 **Stay Updated:**
 - ⭐ Watch this repository
-- 📧 Check https://u.onl for updates
-- 🐦 Follow @UdotCASH on Twitter
+- 📧 Check [u.onl](https://u.onl) for updates
+- 🐦 Follow [@UdotCASH](https://twitter.com/UdotCASH) on Twitter
 
 ### Native Support (10+ Chains)
 - ✅ **FIO** - Native protocol
