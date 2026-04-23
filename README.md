@@ -109,7 +109,7 @@ This repository provides comprehensive information about:
 **Coming Soon:**
 - ⏳ Registration through U.ONL and Undomains
 - ⏳ Pricing announcement
-- ⏳ Official UCASH @U handles
+- ⏳ Official @U handles
 - ⏳ Portal launch
 
 **Registration Portals:**
@@ -262,11 +262,11 @@ New way: Send to yourname@U
 ### Domain Types
 
 ### @U Handle Types
-- **Personal** - `yourname@U`
-- **Business** - `company@U`
-- **Brand** - `brand@U`
-- **Product** - `product@U`
-- **Service** - `service@U`
+- **Personal** - `yourname@u`
+- **Business** - `company@u`
+- **Brand** - `brand@u`
+- **Product** - `product@u`
+- **Service** - `service@u`
 
 ---
 
