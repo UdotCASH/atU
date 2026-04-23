@@ -416,13 +416,13 @@ curl https://api.fio.org/v1/chain/add_pub_address
 **[X (@UdotONL)](https://twitter.com/UdotONL)** • **[X (@UdotCASH)](https://twitter.com/UdotCASH)** • **[X (@ucashx)](https://twitter.com/ucashx)** • **[Facebook](https://fb.com/UdotCASH)** • **[YouTube](https://youtube.com/@UdotCASH)** • **[Instagram](https://instagram.com/UdotCASH)** • **[Reddit](https://reddit.com/r/ucash)** • **[LinkedIn](https://linkedin.com/company/ucash)** • **[Telegram](https://t.me/ucash)**
 
 ### Developer Resources
-**[GitHub](https://github.com/UdotCASH)** • **[FIO SDK](https://docs.fio.org)** • **[API Docs](https://docs.fio.org)**
+**[GitHub](https://github.com/UdotCASH)** • **[FIO SDK](https://dev.fio.net)** • **[API Reference](https://dev.fio.net/reference/fio-protocol-apis)**
 
 ### Tutorials
-**[Getting Started Guide](https://u.onl)** • **[FIO Documentation](https://docs.fio.org)** • **[FIO App](https://app.fio.net/)** • **[API Integration](https://docs.fio.org)**
+**[Getting Started Guide](https://u.onl)** • **[FIO Documentation](https://dev.fio.net)** • **[FIO App](https://app.fio.net/)** • **[API Reference](https://dev.fio.net/reference/fio-protocol-apis)**
 
 ### FIO Protocol Resources
-**[FIO Website](https://fio.net)** • **[FIO Docs](https://docs.fio.org)** • **[FIO Explorer](https://fio.network)**
+**[FIO Website](https://fio.net)** • **[FIO Docs](https://dev.fio.net)** • **[API Reference](https://dev.fio.net/reference/fio-protocol-apis)** • **[FIO Explorer](https://fio.network)**
 
 ---
 
