@@ -50,7 +50,7 @@
 
 ### How It Will Work
 
-1. **Visit U.ONL or Undomains** - Access through https://u.onl or Undomains
+1. **Visit U.ONL or Undomains** - Access through [u.onl](https://u.onl) or Undomains
 2. **Search for Your Handle** - Find your desired `@U` handle
 3. **Register & Mint** - Purchase through the portal
 4. **Use Across All Chains** - Link addresses and use everywhere
