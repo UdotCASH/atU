@@ -3,7 +3,6 @@
 <div align="center">
 
 [![FIO Protocol](https://img.shields.io/badge/FIO_Protocol-@U-blue)](https://fio.org)
-[![Domain](https://img.shields.io/badge/Handle-@U-informational)](https://fio.org)
 [![Blockchain](https://img.shields.io/badge/Blockchain-FIO-darkblue)](https://fio.org)
 [![Status](https://img.shields.io/badge/Status-Information_Only-orange)](https://github.com/UdotCASH/atU)
 
