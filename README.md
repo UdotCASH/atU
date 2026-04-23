@@ -8,7 +8,7 @@
 
 **The Complete Guide to @U Usernames - Available Through U.ONL and [Undomains](https://undomains.com)**
 
-put available through
+put available through U.ONL and Undomains
 
 [Website](https://fio.net) • [Documentation](#documentation)
 
