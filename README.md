@@ -17,7 +17,7 @@
 
 ## 🔍 What is @U?
 
-**@U** is a **custom handle/domain** on the **FIO Protocol** launched by **U.ONL**, **U.CASH**, and the **Ucosystem** in partnership with the **FIO Foundation**, providing user-friendly cryptocurrency addresses and usernames across multiple blockchains.
+**@U** is a **custom handle/domain** on the **FIO Protocol** to be launched by **U.ONL**, **U.CASH**, and the **Ucosystem** in partnership with the **FIO Foundation**, providing user-friendly cryptocurrency addresses and usernames across multiple blockchains.
 
 ### Key Features
 - ✅ **Human-Readable** - Easy to remember, easy to share
@@ -517,7 +517,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 
 **Last Updated:** 2026-04-23
 **License:** MIT
-**Status:** ✅ Public Registration Available
+**Status:** ⏳ Coming Soon
 
 ---
 
