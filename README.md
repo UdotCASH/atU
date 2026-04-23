@@ -150,14 +150,14 @@ yourname@u
 ## 💼 Supported Wallets
 
 ### Desktop Wallets
-- **[FIO Wallet](https://fio.net/get-wallet)** - Desktop app
+- **[FIO App](https://app.fio.net/)** - Desktop app
 - **[Edge](https://edge.app/)** - Cross-platform
 - **[Coinbase Wallet](https://www.coinbase.com/wallet/downloads)** - Chrome extension
 - **[MetaMask](https://metamask.io/download/)** - With FIO integration
 - **[Exodus](https://www.exodus.com/)** - Multi-currency
 
 ### Mobile Wallets
-- **[FIO Wallet](https://fio.net/get-wallet)** - iOS, Android
+- **[FIO App](https://app.fio.net/)** - iOS, Android
 - **[Edge](https://edge.app/)** - Mobile app
 - **[Trust Wallet](https://trustwallet.com/download)** - iOS, Android
 - **[Coinomi](https://www.coinomi.com/)** - Mobile wallet
@@ -419,7 +419,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 **[GitHub](https://github.com/UdotCASH)** • **[FIO SDK](https://docs.fio.org)** • **[API Docs](https://docs.fio.org)**
 
 ### Tutorials
-**[Getting Started Guide](https://u.onl)** • **[FIO Documentation](https://docs.fio.org)** • **[Wallet Setup](https://fio.net/get-wallet)** • **[API Integration](https://docs.fio.org)**
+**[Getting Started Guide](https://u.onl)** • **[FIO Documentation](https://docs.fio.org)** • **[FIO App](https://app.fio.net/)** • **[API Integration](https://docs.fio.org)**
 
 ### FIO Protocol Resources
 **[FIO Website](https://fio.net)** • **[FIO Docs](https://docs.fio.org)** • **[FIO Explorer](https://fio.network)**
@@ -506,7 +506,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 
 **Simplify Crypto with Your @u Handle!** 🟣
 
-[Learn More](https://u.onl) • [Get FIO Wallet](https://fio.net/get-wallet)
+[Learn More](https://u.onl) • [Get FIO App](https://app.fio.net/)
 
 **Your crypto identity, simplified.** 🚀
 
