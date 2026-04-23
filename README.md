@@ -279,9 +279,8 @@ New way: Send to yourname@u
 
 ### Resolution
 ```javascript
-// FIO Protocol API
-// Direct API call to get public address for @u handle
-const response = await fetch('https://fio.api.fio.net/v1/chain/get_pub_address', {
+// FIO Chain Getter API
+const response = await fetch('https://fio.eosusa.io/v1/chain/get_pub_address', {
   method: 'POST',
   headers: { 'Content-Type': 'application/json' },
   body: JSON.stringify({
@@ -386,48 +385,81 @@ curl -X POST https://fio.api.fio.net/v1/chain/get_pub_address \
 
 ### FIO Protocol APIs
 
-The FIO Protocol provides REST APIs for integration:
+The FIO Protocol provides multiple APIs for different purposes:
 
-- **FIO Chain Getters API** - Query handles, addresses, tokens
-- **FIO Chain Action API** - Register handles, map addresses, transfer
-- **FIO App API** - Purchase handles and domains
-- **FIO Service API** - Staking, token supply
+#### 1. FIO Chain Getter API (Read-Only Queries)
+**Purpose:** Query handles, addresses, tokens, and chain information
 
-### API Endpoints
+**Endpoints:**
+- Testnet: `https://test.fio.eosusa.io/v1/chain`
+- Mainnet: `https://fio.eosusa.io/v1/chain`
 
-#### Get Public Address
+**Common Endpoints:**
+- `get_pub_address` - Get crypto address for @u handle
+- `get_fio_balance` - Get FIO token balance
+- `get_fio_names` - Get all FIO handles for account
+
+**Example:**
 ```bash
-curl -X POST https://fio.api.fio.net/v1/chain/get_pub_address \
+curl -X POST https://fio.eosusa.io/v1/chain/get_pub_address \
   -H "Content-Type: application/json" \
-  -d '{
-    "fio_address": "yourname@u",
-    "chain_code": "ETH",
-    "token_code": "ETH"
-  }'
+  -d '{"fio_address": "yourname@u", "chain_code": "ETH", "token_code": "ETH"}'
 ```
 
-#### Register FIO Handle
-```bash
-curl -X POST https://fio.api.fio.net/v1/chain/register_fio_address \
-  -H "Content-Type: application/json" \
-  -d '{
-    "fio_address": "yourname@u",
-    "owner_fio_public_key": "your_public_key",
-    "max_fee": 1000000000000
-  }'
-```
+#### 2. FIO Chain Action API (Write Transactions)
+**Purpose:** Register handles, map addresses, transfer ownership (requires signed transactions)
 
-#### Add Public Address
-```bash
-curl -X POST https://fio.api.fio.net/v1/chain/add_pub_address \
-  -H "Content-Type: application/json" \
-  -d '{
-    "fio_address": "yourname@u",
-    "public_address": "0xYourEthAddress...",
-    "chain_code": "ETH",
-    "token_code": "ETH"
-  }'
-```
+**Note:** This is NOT a typical REST API. Transactions must be signed with FIO private key and serialized. Use the FIO TypeScript SDK for easier integration.
+
+**Endpoints:**
+- Testnet: `https://fiotestnet.blockpane.com/v1/chain`
+- Mainnet: `https://fio.blockpane.com/v1/chain`
+
+**Common Endpoints:**
+- `register_fio_address` - Register new @u handle
+- `add_pub_address` - Map crypto address to @u handle
+- `transfer_fio_address` - Transfer @u handle ownership
+
+**GitHub Reference:** https://github.com/fioprotocol/fio.mainnet#fio-api
+
+#### 3. FIO Chain V1 History API (Historical Data)
+**Purpose:** Get transaction history and traces
+
+**Endpoints:**
+- Testnet: `https://fiotestnet.blockpane.com/v1/history`
+- Mainnet: `https://fio.blockpane.com/v1/history`
+
+**Common Endpoints:**
+- `get_account_txs` - Get account transactions
+- `get_txs` - Get transactions in block
+
+**GitHub Reference:** https://github.com/fioprotocol/fio.mainnet#history-v1
+
+#### 4. FIO App API (Handle/Domain Registration)
+**Purpose:** Register FIO handles/domains through FIO Foundation
+
+**Endpoints:**
+- Testnet: `https://staging-api-app.fio.net/public-api`
+- Mainnet: `https://api-app.fio.net/public-api`
+
+**Authentication:** Requires `apiToken` and `referralCode` from FIO Foundation
+
+**Common Endpoints:**
+- `/renew-address` - Register or renew FIO handle/domain
+
+**Note:** Contact FIO Foundation Business Development Team for credentials
+
+#### 5. FIO Service API (Statistics)
+**Purpose:** FIO Chain statistics and staking information
+
+**Endpoint:** `https://services-external.fioprotocol.io`
+
+**Common Endpoints:**
+- `/supply?json=true` - Get FIO token total supply
+- `/staking` - Get staking statistics
+- `/circulating?json=true` - Get circulating supply
+
+**Authentication:** None required
 
 ### TypeScript SDK
 
@@ -438,8 +470,15 @@ The **FIO Protocol Lite TypeScript SDK** is maintained by the FIO Foundation DAO
 **Key Features:**
 - Most up-to-date SDK
 - TypeScript support
+- Handles transaction signing and serialization
 - Maintained by FIO Foundation DAO
 - Interactive examples
+
+### GitHub Resources
+
+- **Main Repository:** https://github.com/fioprotocol
+- **FIO API Endpoints:** https://github.com/fioprotocol/fio.mainnet#fio-api
+- **History API:** https://github.com/fioprotocol/fio.mainnet#history-v1
 
 ---
 
