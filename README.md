@@ -468,14 +468,14 @@ curl https://api.fio.org/v1/chain/add_pub_address
 
 ## 🚀 Getting Started Checklist
 
-- [ ] Download a FIO-enabled wallet
-- [ ] Create or import account
-- [ ] Get FIO tokens
-- [ ] Search for your @U handle
-- [ ] Register and mint
-- [ ] Add your crypto addresses
-- [ ] Use on exchanges/wallets
-- [ ] Share your @U handle!
+☐ Download a FIO-enabled wallet
+☐ Create or import account
+☐ Get FIO tokens
+☐ Search for your @U handle
+☐ Register and mint
+☐ Add your crypto addresses
+☐ Use on exchanges/wallets
+☐ Share your @U handle!
 
 ---
 
