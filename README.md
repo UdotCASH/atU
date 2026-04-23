@@ -279,24 +279,31 @@ New way: Send to yourname@u
 
 ### Resolution
 ```javascript
-// FIO SDK example
-const { Fio } = require('@fioprotocol/fiojs');
-
-async function resolveUHandle(handle) {
-  const fio = new Fio(process.env.FIO_API_KEY);
-  const address = await fio.getPublicAddress(handle);
-  return address;
-}
+// FIO Protocol API
+// Direct API call to get public address for @u handle
+const response = await fetch('https://api.fio.net/v1/chain/get_pub_address', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({
+    fio_address: 'yourname@u',
+    chain_code: 'ETH',
+    token_code: 'ETH'
+  })
+});
+const data = await response.json();
+console.log(data.public_address);
 ```
 
 ### API Integration
 ```bash
-# Lookup address for @u handle
-curl https://api.fio.org/v1/chain/get_pub_address {
-  "fio_address": "yourname@u",
-  "chain_code": "ETH",
-  "token_code": "ETH"
-}
+# Get public address for @u handle
+curl -X POST https://api.fio.net/v1/chain/get_pub_address \
+  -H "Content-Type: application/json" \
+  -d '{
+    "fio_address": "yourname@u",
+    "chain_code": "ETH",
+    "token_code": "ETH"
+  }'
 ```
 
 ---
@@ -377,33 +384,62 @@ curl https://api.fio.org/v1/chain/get_pub_address {
 
 ## 🤝 Developer Integration
 
-### FIO SDK
-```javascript
-// Install
-npm install @fioprotocol/fiojs
+### FIO Protocol APIs
 
-// Initialize
-const { Fio } = require('@fioprotocol/fiojs');
-const fio = new Fio({
-  privateKey: process.env.FIO_PRIVATE_KEY,
-  baseUrl: 'https://api.fio.org'
-});
+The FIO Protocol provides REST APIs for integration:
 
-// Register @u handle
-const result = await fio.registerFioAddress('yourname@u');
-```
+- **FIO Chain Getters API** - Query handles, addresses, tokens
+- **FIO Chain Action API** - Register handles, map addresses, transfer
+- **FIO App API** - Purchase handles and domains
+- **FIO Service API** - Staking, token supply
 
-### API Documentation
+### API Endpoints
+
+#### Get Public Address
 ```bash
-# Get FIO balance
-curl https://api.fio.org/v1/chain/get_fio_balance
-
-# Register handle
-curl https://api.fio.org/v1/chain/register_fio_address
-
-# Add public address
-curl https://api.fio.org/v1/chain/add_pub_address
+curl -X POST https://api.fio.net/v1/chain/get_pub_address \
+  -H "Content-Type: application/json" \
+  -d '{
+    "fio_address": "yourname@u",
+    "chain_code": "ETH",
+    "token_code": "ETH"
+  }'
 ```
+
+#### Register FIO Handle
+```bash
+curl -X POST https://api.fio.net/v1/chain/register_fio_address \
+  -H "Content-Type: application/json" \
+  -d '{
+    "fio_address": "yourname@u",
+    "owner_fio_public_key": "your_public_key",
+    "max_fee": 1000000000000
+  }'
+```
+
+#### Add Public Address
+```bash
+curl -X POST https://api.fio.net/v1/chain/add_pub_address \
+  -H "Content-Type: application/json" \
+  -d '{
+    "fio_address": "yourname@u",
+    "public_address": "0xYourEthAddress...",
+    "chain_code": "ETH",
+    "token_code": "ETH"
+  }'
+```
+
+### TypeScript SDK
+
+The **FIO Protocol Lite TypeScript SDK** is maintained by the FIO Foundation DAO and is the recommended integration method.
+
+**SDK Sandbox:** [StackBlitz](https://stackblitz.com/@fioprotocol)
+
+**Key Features:**
+- Most up-to-date SDK
+- TypeScript support
+- Maintained by FIO Foundation DAO
+- Interactive examples
 
 ---
 
@@ -416,7 +452,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 **[X (@UdotONL)](https://twitter.com/UdotONL)** • **[X (@UdotCASH)](https://twitter.com/UdotCASH)** • **[X (@ucashx)](https://twitter.com/ucashx)** • **[Facebook](https://fb.com/UdotCASH)** • **[YouTube](https://youtube.com/@UdotCASH)** • **[Instagram](https://instagram.com/UdotCASH)** • **[Reddit](https://reddit.com/r/ucash)** • **[LinkedIn](https://linkedin.com/company/ucash)** • **[Telegram](https://t.me/ucash)**
 
 ### Developer Resources
-**[GitHub](https://github.com/UdotCASH)** • **[FIO SDK](https://dev.fio.net)** • **[API Reference](https://dev.fio.net/reference/fio-protocol-apis)**
+**[GitHub](https://github.com/UdotCASH)** • **[FIO APIs](https://dev.fio.net/reference/fio-protocol-apis)** • **[TypeScript SDK](https://stackblitz.com/@fioprotocol)**
 
 ### Tutorials
 **[Getting Started Guide](https://u.onl)** • **[FIO Documentation](https://dev.fio.net)** • **[FIO App](https://app.fio.net/)** • **[API Reference](https://dev.fio.net/reference/fio-protocol-apis)**
