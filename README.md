@@ -5,11 +5,11 @@
 [![FIO Protocol](https://img.shields.io/badge/FIO_Protocol-@U-blue)](https://fio.org)
 [![Domain](https://img.shields.io/badge/Handle-@U-informational)](https://fio.org)
 [![Blockchain](https://img.shields.io/badge/Blockchain-FIO-darkblue)](https://fio.org)
-[![Status](https://img.shields.io/badge/Status-Public_Registration-blue)](https://fio.org)
+[![Status](https://img.shields.io/badge/Status-Information_Only-orange)](https://github.com/UdotCASH/atU)
 
-**The Complete Guide to @U Usernames on FIO Protocol**
+**The Complete Guide to @U Usernames - Available Through UCASH Portals**
 
-[Website](https://fio.org) • [Register](https://fio.org) • [Documentation](#documentation)
+[Website](https://fio.org) • [Documentation](#documentation)
 
 </div>
 
@@ -24,8 +24,8 @@
 - ✅ **Multi-Chain** - Works across 10+ blockchains
 - ✅ **No Gas Fees** - Zero gas for transactions
 - ✅ **Privacy First** - No personal data required
-- ✅ **Public Registration** - Open to everyone
 - ✅ **NFT-Based** - Your @U is an NFT you own
+- ⚠️ **Coming Soon** - @U handles will be available for registration in the future
 
 ---
 
@@ -42,50 +42,85 @@
 
 ---
 
-## 🚀 How to Register @U
+## 🚀 About @U Registration
 
-### 1. Get a FIO-Enabled Wallet
-Choose from:
-- **FIO Wallet** - Official wallet
-- **Edge** - Multi-chain wallet
-- **Coinomi** - Mobile wallet
-- **Trust Wallet** - iOS/Android
-- **Bitcoin.com** - Mobile wallet
+### Registration Through UCASH Portals
 
-### 2. Search for Your Handle
-- Visit [FIO Protocol](https://fio.org)
-- Search for your desired `@U` handle
-- Check availability
+**@U handles will be available through UCASH's own portals, including Undomains.**
 
-### 3. Purchase & Mint
-- Pay with FIO tokens or other crypto
-- Mint to your wallet
-- **Lifetime ownership** - no renewal!
+### How It Will Work
 
-### 4. Use Across All Chains
-- Link multiple crypto addresses
-- Use one handle for everything
-- Send/receive easily
+1. **Visit UCASH Portal** - Access through https://u.cash or Undomains
+2. **Search for Your Handle** - Find your desired `@U` handle
+3. **Register & Mint** - Purchase through UCASH's portal
+4. **Use Across All Chains** - Link addresses and use everywhere
+
+### Why UCASH Portals?
+
+- **User-Friendly Interface** - Simplified registration process
+- **Integrated Experience** - Seamless with UCASH ecosystem
+- **Additional Features** - Enhanced functionality and support
+- **Exclusive Access** - Special @U handles and bundles
+- **Unified Management** - Manage all your UCASH domains in one place
+
+### Coming Soon
+
+**@U handles will be available for registration through UCASH portals in the future.**
+
+This repository provides comprehensive information about:
+- What @U handles are and how they work
+- Supported blockchains and wallets
+- Integration capabilities
+- Use cases and applications
+- Technical documentation
+- UCASH portal information
+
+*Note: Registration will be available through UCASH portals, not through FIO Protocol directly.*
 
 ---
 
-## 💰 Pricing & Fees
+## 💰 Pricing (When Available)
 
 | Handle Length | Cost (One-time) |
 |---------------|-----------------|
-| 3-7 characters | Market-based |
-| 8+ characters | $0.10 - $5 |
-| **Premium Names** | Auction-based |
+| 3-7 characters | TBD |
+| 8+ characters | TBD |
+| **Premium Names** | TBD |
 
-**Includes:**
+**Will Include:**
 - ✅ Lifetime ownership
 - ✅ Zero gas fees
 - ✅ Multi-chain support
 - ✅ No renewal fees
 
----
+*Pricing will be announced when registration becomes available.*
 
-## 🔧 Supported Blockchains
+## 📊 Project Status
+
+**Current Phase:** Information & Documentation
+
+**What's Available:**
+- ✅ Comprehensive @U documentation
+- ✅ Technical specifications
+- ✅ Integration guides
+- ✅ Use case examples
+- ✅ Ecosystem overview
+
+**Coming Soon:**
+- ⏳ Registration through UCASH portals (Undomains)
+- ⏳ Pricing announcement
+- ⏳ Official UCASH @U handles
+- ⏳ Portal launch
+
+**Registration Portal:**
+- 🌐 **Undomains** - Primary registration portal
+- 🌐 **u.cash** - UCASH ecosystem hub
+- ⏳ Coming soon
+
+**Stay Updated:**
+- ⭐ Watch this repository
+- 📧 Check https://u.cash for updates
+- 🐦 Follow @UdotCASH on Twitter
 
 ### Native Support (10+ Chains)
 - ✅ **FIO** - Native protocol
