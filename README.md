@@ -281,7 +281,7 @@ New way: Send to yourname@u
 ```javascript
 // FIO Protocol API
 // Direct API call to get public address for @u handle
-const response = await fetch('https://api.fio.net/v1/chain/get_pub_address', {
+const response = await fetch('https://fio.api.fio.net/v1/chain/get_pub_address', {
   method: 'POST',
   headers: { 'Content-Type': 'application/json' },
   body: JSON.stringify({
@@ -297,7 +297,7 @@ console.log(data.public_address);
 ### API Integration
 ```bash
 # Get public address for @u handle
-curl -X POST https://api.fio.net/v1/chain/get_pub_address \
+curl -X POST https://fio.api.fio.net/v1/chain/get_pub_address \
   -H "Content-Type: application/json" \
   -d '{
     "fio_address": "yourname@u",
@@ -397,7 +397,7 @@ The FIO Protocol provides REST APIs for integration:
 
 #### Get Public Address
 ```bash
-curl -X POST https://api.fio.net/v1/chain/get_pub_address \
+curl -X POST https://fio.api.fio.net/v1/chain/get_pub_address \
   -H "Content-Type: application/json" \
   -d '{
     "fio_address": "yourname@u",
@@ -408,7 +408,7 @@ curl -X POST https://api.fio.net/v1/chain/get_pub_address \
 
 #### Register FIO Handle
 ```bash
-curl -X POST https://api.fio.net/v1/chain/register_fio_address \
+curl -X POST https://fio.api.fio.net/v1/chain/register_fio_address \
   -H "Content-Type: application/json" \
   -d '{
     "fio_address": "yourname@u",
@@ -419,7 +419,7 @@ curl -X POST https://api.fio.net/v1/chain/register_fio_address \
 
 #### Add Public Address
 ```bash
-curl -X POST https://api.fio.net/v1/chain/add_pub_address \
+curl -X POST https://fio.api.fio.net/v1/chain/add_pub_address \
   -H "Content-Type: application/json" \
   -d '{
     "fio_address": "yourname@u",
