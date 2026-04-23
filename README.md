@@ -497,22 +497,6 @@ curl https://api.fio.org/v1/chain/add_pub_address
 
 ---
 
-## 🔄 vs. Other Solutions
-
-### @U vs. ENS
-- **@U** - Multi-chain, no gas
-- **ENS** - Ethereum only, gas fees
-
-### @U vs. Unstoppable Domains
-- **@U** - Username/handle
-- **UD** - Domain name
-
-### @U vs. Traditional DNS
-- **@U** - Crypto addresses
-- **DNS** - Website hosting
-
----
-
 **Repository:** https://github.com/UdotCASH/atU
 
 **Last Updated:** 2026-04-23
