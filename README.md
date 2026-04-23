@@ -497,7 +497,7 @@ The **FIO Protocol Lite TypeScript SDK** is maintained by the FIO Foundation DAO
 **[Getting Started Guide](https://u.onl)** • **[FIO Documentation](https://dev.fio.net)** • **[FIO App](https://app.fio.net/)** • **[API Reference](https://dev.fio.net/reference/fio-protocol-apis)**
 
 ### FIO Protocol Resources
-**[FIO Website](https://fio.net)** • **[FIO Docs](https://dev.fio.net)** • **[API Reference](https://dev.fio.net/reference/fio-protocol-apis)** • **[FIO Explorer](https://fio.network)**
+**[FIO Website](https://fio.net)** • **[FIO Docs](https://dev.fio.net)** • **[API Reference](https://dev.fio.net/reference/fio-protocol-apis)** • **[FIO Explorer](https://fio.bloks.io)**
 
 ---
 
