@@ -120,7 +120,7 @@ This repository provides comprehensive information about:
 **Stay Updated:**
 - ⭐ Watch this repository
 - 📧 Check [u.onl](https://u.onl) for updates
-- 🐦 **X:** [@UdotCASH](https://twitter.com/UdotCASH) • [@ucashx](https://twitter.com/ucashx) • [@UdotONL](https://twitter.com/UdotONL)
+- 🐦 **X:** [@UdotONL](https://twitter.com/UdotONL) • [@UdotCASH](https://twitter.com/UdotCASH) • [@ucashx](https://twitter.com/ucashx)
 
 ### Native Support (10+ Chains)
 - ✅ **FIO** - Native protocol
@@ -414,7 +414,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 **[u.cash](https://u.cash)** • **[u.onl](https://u.onl)** • **[un4.com](https://un4.com)** • **[FIO Protocol](https://fio.org)**
 
 ### Social Media
-**[X (@UdotCASH)](https://twitter.com/UdotCASH)** • **[X (@ucashx)](https://twitter.com/ucashx)** • **[X (@UdotONL)](https://twitter.com/UdotONL)** • **[Facebook](https://fb.com/UdotCASH)** • **[YouTube](https://youtube.com/@UdotCASH)** • **[Instagram](https://instagram.com/UdotCASH)** • **[Reddit](https://reddit.com/r/ucash)** • **[LinkedIn](https://linkedin.com/company/ucash)** • **[Telegram](https://t.me/ucash)**
+**[X (@UdotONL)](https://twitter.com/UdotONL)** • **[X (@UdotCASH)](https://twitter.com/UdotCASH)** • **[X (@ucashx)](https://twitter.com/ucashx)** • **[Facebook](https://fb.com/UdotCASH)** • **[YouTube](https://youtube.com/@UdotCASH)** • **[Instagram](https://instagram.com/UdotCASH)** • **[Reddit](https://reddit.com/r/ucash)** • **[LinkedIn](https://linkedin.com/company/ucash)** • **[Telegram](https://t.me/ucash)**
 
 ### Developer Resources
 **[GitHub](https://github.com/UdotCASH)** • **[FIO SDK](https://docs.fio.org)** • **[API Docs](https://docs.fio.org)**
