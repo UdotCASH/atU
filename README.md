@@ -17,7 +17,7 @@
 
 ## 🔍 What is @U?
 
-**@U** is a **custom handle/domain** on the **FIO Protocol**, providing user-friendly cryptocurrency addresses and usernames across multiple blockchains.
+**@U** is a **custom handle/domain** on the **FIO Protocol** launched by **U.ONL**, **U.CASH**, and the **Ucosystem** in partnership with the **FIO Foundation**, providing user-friendly cryptocurrency addresses and usernames across multiple blockchains.
 
 ### Key Features
 - ✅ **Human-Readable** - Easy to remember, easy to share
@@ -151,24 +151,24 @@ yourname@U
 ## 💼 Supported Wallets
 
 ### Desktop Wallets
-- **FIO Wallet** - Desktop app
-- **Edge** - Cross-platform
-- **Coinbase Wallet** - Chrome extension
-- **MetaMask** - With FIO integration
-- **Exodus** - Multi-currency
+- **[FIO Wallet](https://fio.org/get-wallet)** - Desktop app
+- **[Edge](https://edge.app/)** - Cross-platform
+- **[Coinbase Wallet](https://www.coinbase.com/wallet/downloads)** - Chrome extension
+- **[MetaMask](https://metamask.io/download/)** - With FIO integration
+- **[Exodus](https://www.exodus.com/)** - Multi-currency
 
 ### Mobile Wallets
-- **FIO Wallet** - iOS, Android
-- **Edge** - Mobile app
-- **Trust Wallet** - iOS, Android
-- **Coinomi** - Mobile wallet
-- **Bitcoin.com** - Mobile
+- **[FIO Wallet](https://fio.org/get-wallet)** - iOS, Android
+- **[Edge](https://edge.app/)** - Mobile app
+- **[Trust Wallet](https://trustwallet.com/download)** - iOS, Android
+- **[Coinomi](https://www.coinomi.com/)** - Mobile wallet
+- **[Bitcoin.com](https://wallet.bitcoin.com/)** - Mobile
 
 ### Hardware Wallets
-- **Ledger** - Nano S, Nano X
-- **Trezor** - Model T
-- **KeepKey** - Hardware wallet
-- **Shapeshift** - Hardware integration
+- **[Ledger](https://www.ledger.com/)** - Nano S, Nano X
+- **[Trezor](https://trezor.io/)** - Model T
+- **[KeepKey](https://shapeshift.com/keepkey)** - Hardware wallet
+- **[Shapeshift](https://shapeshift.com/)** - Hardware integration
 
 ---
 
@@ -411,23 +411,19 @@ curl https://api.fio.org/v1/chain/add_pub_address
 ## 📖 Resources
 
 ### Official Links
-- **Website:** https://fio.org
-- **Docs:** https://docs.fio.org
-- **Blog:** https://blog.fio.org
-- **Twitter:** https://twitter.com/FIOprotocol
-- **Telegram:** https://t.me/FIOprotocol
-- **Discord:** https://discord.gg/fio
+**[u.cash](https://u.cash)** • **[u.onl](https://u.onl)** • **[un4.com](https://un4.com)** • **[FIO Protocol](https://fio.org)**
 
-### Development
-- **GitHub:** https://github.com/fioprotocol
-- **API Docs:** https://docs.fio.org
-- **SDKs:** https://github.com/fioprotocol
-- **Explorer:** https://fio.network
+### Social Media
+**[X (@UdotCASH)](https://twitter.com/UdotCASH)** • **[X (@ucashx)](https://twitter.com/ucashx)** • **[X (@UdotONL)](https://twitter.com/UdotONL)** • **[Facebook](https://fb.com/UdotCASH)** • **[YouTube](https://youtube.com/@UdotCASH)** • **[Instagram](https://instagram.com/UdotCASH)** • **[Reddit](https://reddit.com/r/ucash)** • **[LinkedIn](https://linkedin.com/company/ucash)** • **[Telegram](https://t.me/ucash)**
 
-### Community
-- **Forum:** https://talk.fio.org
-- **Support:** https://fio.org/support
-- **YouTube:** https://youtube.com/c/FIOprotocol
+### Developer Resources
+**[GitHub](https://github.com/UdotCASH)** • **[FIO SDK](https://docs.fio.org)** • **[API Docs](https://docs.fio.org)**
+
+### Tutorials
+**[Getting Started Guide](https://u.onl)** • **[FIO Documentation](https://docs.fio.org)** • **[Wallet Setup](https://fio.org/get-wallet)** • **[API Integration](https://docs.fio.org)**
+
+### FIO Protocol Resources
+**[FIO Website](https://fio.org)** • **[FIO Docs](https://docs.fio.org)** • **[FIO Explorer](https://fio.network)**
 
 ---
 
@@ -456,17 +452,17 @@ curl https://api.fio.org/v1/chain/add_pub_address
 ## 📊 Market Statistics
 
 ### Current Stats
-- **Total Registered:** 1M+ handles
+- **Total Registered:** Coming soon
 - **Supported Chains:** 12+
 - **Integrated Wallets:** 50+
 - **Exchange Partners:** 20+
 
 ### Popular Categories
-- Personal names (35%)
-- Brands (25%)
-- Projects (20%)
-- Services (15%)
-- Other (5%)
+- Personal names
+- Brands
+- Projects
+- Services
+- Other
 
 ---
 
@@ -497,11 +493,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 ---
 
 ## 📞 Support
-
-- **Help Center:** https://fio.org/support
-- **Email:** support@fio.org
-- **Twitter:** @FIOprotocol
-- **Telegram:** https://t.me/FIOprotocol
+**[u.cash](https://u.cash)** • **[GitHub](https://github.com/UdotCASH)** • **[Twitter](https://twitter.com/UdotCASH)** • **[Telegram](https://t.me/ucash)**
 
 ---
 
@@ -533,7 +525,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 
 **Simplify Crypto with Your @U Handle!** 🟣
 
-[Search for @U Handles](https://fio.org) • [Get FIO Wallet](https://fio.org/get-wallet)
+[Learn More](https://u.onl) • [Get FIO Wallet](https://fio.org/get-wallet)
 
 **Your crypto identity, simplified.** 🚀
 
