@@ -55,7 +55,7 @@
 3. **Register & Mint** - Purchase through the portal
 4. **Use Across All Chains** - Link addresses and use everywhere
 
-### Why U.ONL and [Undomains](https://undomains.com)?
+### Why U.ONL and Undomains?
 
 - **User-Friendly Interface** - Simplified registration process
 - **Integrated Experience** - Seamless with UCASH ecosystem
