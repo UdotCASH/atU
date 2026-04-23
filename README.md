@@ -7,7 +7,7 @@
 [![Blockchain](https://img.shields.io/badge/Blockchain-FIO-darkblue)](https://fio.org)
 [![Status](https://img.shields.io/badge/Status-Information_Only-orange)](https://github.com/UdotCASH/atU)
 
-**The Complete Guide to @U Usernames - Available Through UCASH Portals**
+**The Complete Guide to @U Usernames - Available Through U.ONL and Undomains**
 
 [Website](https://fio.org) • [Documentation](#documentation)
 
@@ -44,18 +44,18 @@
 
 ## 🚀 About @U Registration
 
-### Registration Through UCASH Portals
+### Registration Through U.ONL and Undomains
 
-**@U handles will be available through UCASH's own portals, including Undomains.**
+**@U handles will be available through U.ONL and Undomains.**
 
 ### How It Will Work
 
-1. **Visit UCASH Portal** - Access through https://u.cash or Undomains
+1. **Visit U.ONL or Undomains** - Access through https://u.onl or Undomains
 2. **Search for Your Handle** - Find your desired `@U` handle
-3. **Register & Mint** - Purchase through UCASH's portal
+3. **Register & Mint** - Purchase through the portal
 4. **Use Across All Chains** - Link addresses and use everywhere
 
-### Why UCASH Portals?
+### Why U.ONL and Undomains?
 
 - **User-Friendly Interface** - Simplified registration process
 - **Integrated Experience** - Seamless with UCASH ecosystem
@@ -75,7 +75,7 @@ This repository provides comprehensive information about:
 - Technical documentation
 - UCASH portal information
 
-*Note: Registration will be available through UCASH portals, not through FIO Protocol directly.*
+*Note: Registration will be available through U.ONL and Undomains, not through FIO Protocol directly.*
 
 ---
 
@@ -107,19 +107,19 @@ This repository provides comprehensive information about:
 - ✅ Ecosystem overview
 
 **Coming Soon:**
-- ⏳ Registration through UCASH portals (Undomains)
+- ⏳ Registration through U.ONL and Undomains
 - ⏳ Pricing announcement
 - ⏳ Official UCASH @U handles
 - ⏳ Portal launch
 
-**Registration Portal:**
+**Registration Portals:**
+- 🌐 **U.ONL** - https://u.onl
 - 🌐 **Undomains** - Primary registration portal
-- 🌐 **u.cash** - UCASH ecosystem hub
 - ⏳ Coming soon
 
 **Stay Updated:**
 - ⭐ Watch this repository
-- 📧 Check https://u.cash for updates
+- 📧 Check https://u.onl for updates
 - 🐦 Follow @UdotCASH on Twitter
 
 ### Native Support (10+ Chains)
