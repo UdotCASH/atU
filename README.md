@@ -493,7 +493,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 ---
 
 ## 📞 Support
-**[u.cash](https://u.cash)** • **[GitHub](https://github.com/UdotCASH)** • **[Twitter](https://twitter.com/UdotCASH)** • **[Telegram](https://t.me/ucash)**
+**[Website](https://u.onl)** • **[GitHub](https://github.com/UdotCASH)** • **[Twitter](https://twitter.com/UdotCASH)** • **[Telegram](https://t.me/ucash)**
 
 ---
 
