@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![FIO Protocol](https://img.shields.io/badge/FIO_Protocol-@U-blue)](https://fio.org)
-[![Blockchain](https://img.shields.io/badge/Blockchain-FIO-darkblue)](https://fio.org)
+[![FIO Protocol](https://img.shields.io/badge/FIO_Protocol-@U-blue)](https://fio.net)
+[![Blockchain](https://img.shields.io/badge/Blockchain-FIO-darkblue)](https://fio.net)
 [![Status](https://img.shields.io/badge/Status-Information_Only-orange)](https://github.com/UdotCASH/atU)
 
 **The Complete Guide to @U Usernames - Available Through U.ONL and [Undomains](https://undomains.com)**
 
-[Website](https://fio.org) • [Documentation](#documentation)
+[Website](https://fio.net) • [Documentation](#documentation)
 
 </div>
 
@@ -150,14 +150,14 @@ yourname@u
 ## 💼 Supported Wallets
 
 ### Desktop Wallets
-- **[FIO Wallet](https://fio.org/get-wallet)** - Desktop app
+- **[FIO Wallet](https://fio.net/get-wallet)** - Desktop app
 - **[Edge](https://edge.app/)** - Cross-platform
 - **[Coinbase Wallet](https://www.coinbase.com/wallet/downloads)** - Chrome extension
 - **[MetaMask](https://metamask.io/download/)** - With FIO integration
 - **[Exodus](https://www.exodus.com/)** - Multi-currency
 
 ### Mobile Wallets
-- **[FIO Wallet](https://fio.org/get-wallet)** - iOS, Android
+- **[FIO Wallet](https://fio.net/get-wallet)** - iOS, Android
 - **[Edge](https://edge.app/)** - Mobile app
 - **[Trust Wallet](https://trustwallet.com/download)** - iOS, Android
 - **[Coinomi](https://www.coinomi.com/)** - Mobile wallet
@@ -410,7 +410,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 ## 📖 Resources
 
 ### Official Links
-**[u.cash](https://u.cash)** • **[u.onl](https://u.onl)** • **[un4.com](https://un4.com)** • **[FIO Protocol](https://fio.org)**
+**[u.cash](https://u.cash)** • **[u.onl](https://u.onl)** • **[un4.com](https://un4.com)** • **[FIO Protocol](https://fio.net)**
 
 ### Social Media
 **[X (@UdotONL)](https://twitter.com/UdotONL)** • **[X (@UdotCASH)](https://twitter.com/UdotCASH)** • **[X (@ucashx)](https://twitter.com/ucashx)** • **[Facebook](https://fb.com/UdotCASH)** • **[YouTube](https://youtube.com/@UdotCASH)** • **[Instagram](https://instagram.com/UdotCASH)** • **[Reddit](https://reddit.com/r/ucash)** • **[LinkedIn](https://linkedin.com/company/ucash)** • **[Telegram](https://t.me/ucash)**
@@ -419,10 +419,10 @@ curl https://api.fio.org/v1/chain/add_pub_address
 **[GitHub](https://github.com/UdotCASH)** • **[FIO SDK](https://docs.fio.org)** • **[API Docs](https://docs.fio.org)**
 
 ### Tutorials
-**[Getting Started Guide](https://u.onl)** • **[FIO Documentation](https://docs.fio.org)** • **[Wallet Setup](https://fio.org/get-wallet)** • **[API Integration](https://docs.fio.org)**
+**[Getting Started Guide](https://u.onl)** • **[FIO Documentation](https://docs.fio.org)** • **[Wallet Setup](https://fio.net/get-wallet)** • **[API Integration](https://docs.fio.org)**
 
 ### FIO Protocol Resources
-**[FIO Website](https://fio.org)** • **[FIO Docs](https://docs.fio.org)** • **[FIO Explorer](https://fio.network)**
+**[FIO Website](https://fio.net)** • **[FIO Docs](https://docs.fio.org)** • **[FIO Explorer](https://fio.network)**
 
 ---
 
@@ -506,7 +506,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 
 **Simplify Crypto with Your @u Handle!** 🟣
 
-[Learn More](https://u.onl) • [Get FIO Wallet](https://fio.org/get-wallet)
+[Learn More](https://u.onl) • [Get FIO Wallet](https://fio.net/get-wallet)
 
 **Your crypto identity, simplified.** 🚀
 
