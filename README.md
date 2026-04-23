@@ -181,17 +181,17 @@ New way: Send to yourname@U
 ```
 
 ### Exchanges & DEXs
-- **Binance** - Use @U handles
-- **Huobi** - FIO integration
-- **KuCoin** - Supported
-- **PancakeSwap** - Compatible
-- **Uniswap** - Works with FIO
+- **[Binance](https://binance.com)** - Use @U handles
+- **[Huobi](https://huobi.com)** - FIO integration
+- **[KuCoin](https://kucoin.com)** - Supported
+- **[PancakeSwap](https://pancakeswap.finance)** - Compatible
+- **[Uniswap](https://uniswap.org)** - Works with FIO
 
 ### NFT Marketplaces
-- **OpenSea** - Collectibles
-- **LooksRare** - NFT trading
-- **Rarible** - Create NFTs
-- **Magic Eden** - Multi-chain
+- **[OpenSea](https://opensea.io)** - Collectibles
+- **[LooksRare](https://looksrare.org)** - NFT trading
+- **[Rarible](https://rarible.com)** - Create NFTs
+- **[Magic Eden](https://magiceden.io)** - Multi-chain
 
 ---
 
