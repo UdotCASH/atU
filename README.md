@@ -7,6 +7,7 @@
 [![Status](https://img.shields.io/badge/Status-Information_Only-orange)](https://github.com/UdotCASH/atU)
 
 **The Complete Guide to @U Usernames - Available Through U.ONL and [Undomains](https://undomains.com)**
+Available Through U.ONL and Undomains
 
 [Website](https://fio.net) • [Documentation](#documentation)
 
