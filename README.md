@@ -9,7 +9,7 @@
 **The Complete Guide to @U Usernames**
 Available Soon Through U.ONL and Undomains
 
-[Website](https://u.onl) • [Documentation](#documentation)
+[Website](https://u.onl) • [Documentation](https://dev.fio.net)
 
 </div>
 
