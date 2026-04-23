@@ -7,7 +7,7 @@
 [![Blockchain](https://img.shields.io/badge/Blockchain-FIO-darkblue)](https://fio.org)
 [![Status](https://img.shields.io/badge/Status-Information_Only-orange)](https://github.com/UdotCASH/atU)
 
-**The Complete Guide to @U Usernames - Available Through U.ONL and Undomains**
+**The Complete Guide to @U Usernames - Available Through U.ONL and [Undomains](https://undomains.com)**
 
 [Website](https://fio.org) • [Documentation](#documentation)
 
@@ -46,16 +46,16 @@
 
 ### Registration Through U.ONL and Undomains
 
-**@U handles will be available through U.ONL and Undomains.**
+**@U handles will be available through U.ONL and [Undomains](https://undomains.com).**
 
 ### How It Will Work
 
-1. **Visit U.ONL or Undomains** - Access through [u.onl](https://u.onl) or Undomains
+1. **Visit U.ONL or Undomains** - Access through [u.onl](https://u.onl) or [undomains.com](https://undomains.com)
 2. **Search for Your Handle** - Find your desired `@U` handle
 3. **Register & Mint** - Purchase through the portal
 4. **Use Across All Chains** - Link addresses and use everywhere
 
-### Why U.ONL and Undomains?
+### Why U.ONL and [Undomains](https://undomains.com)?
 
 - **User-Friendly Interface** - Simplified registration process
 - **Integrated Experience** - Seamless with UCASH ecosystem
@@ -65,7 +65,7 @@
 
 ### Coming Soon
 
-**@U handles will be available for registration through UCASH portals in the future.**
+**@U handles will be available for registration through U portals in the future.**
 
 This repository provides comprehensive information about:
 - What @U handles are and how they work
@@ -113,8 +113,8 @@ This repository provides comprehensive information about:
 - ⏳ Portal launch
 
 **Registration Portals:**
-- 🌐 **U.ONL** - https://u.onl
-- 🌐 **Undomains** - Primary registration portal
+- 🌐 **U.ONL** - [u.onl](https://u.onl)
+- 🌐 **Undomains** - [undomains.com](https://undomains.com)
 - ⏳ Coming soon
 
 **Stay Updated:**
