@@ -336,11 +336,11 @@ curl https://api.fio.org/v1/chain/get_pub_address {
 ## 📱 Ecosystem & Partners
 
 ### Major Integrations
-- **Binance** - Full support
-- **Huobi** - FIO enabled
-- **KuCoin** - Integrated
-- **BitPay** - Merchant processing
-- **CoinPayments** - Shopping cart
+- **[Binance](https://binance.com)** - Full support
+- **[Huobi](https://huobi.com)** - FIO enabled
+- **[KuCoin](https://kucoin.com)** - Integrated
+- **[BitPay](https://bitpay.com)** - Merchant processing
+- **[CoinPayments](https://coinpayments.net)** - Shopping cart
 
 ### Wallet Support
 - 50+ wallets supported
