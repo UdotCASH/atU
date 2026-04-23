@@ -1,4 +1,4 @@
-<p align="center">@U Domain - FIO Protocol</p>
+<h1 align="center">@U Domain - FIO Protocol</h1>
 
 <div align="center">
 
