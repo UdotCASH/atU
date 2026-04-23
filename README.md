@@ -499,9 +499,7 @@ curl https://api.fio.org/v1/chain/add_pub_address
 
 **Repository:** https://github.com/UdotCASH/atU
 
-**Last Updated:** 2026-04-23
-**License:** MIT
-**Status:** ⏳ Coming Soon
+**Last Updated:** 2026-04-23 • **Status:** ⏳ Coming Soon
 
 ---
 
